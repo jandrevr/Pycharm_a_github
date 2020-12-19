@@ -71,7 +71,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.01_agrupacion_datos (1)">
+  <component name="RunManager" selected="Python.00_agrupacion_datos (1)">
     <configuration name="00_agrupacion_datos (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pycharm_github" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,8 +162,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_agrupacion_datos (1)" />
         <item itemvalue="Python.00_agrupacion_datos (1)" />
+        <item itemvalue="Python.01_agrupacion_datos (1)" />
         <item itemvalue="Python.00_agrupacion_datos" />
         <item itemvalue="Python.01_agrupacion_datos" />
       </list>
