@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="714d8e3c-e9c9-4c79-9845-2203a3cab735" name="Default Changelist" comment="Clonar archivo pycharm a github">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_agrupacion_datos.py" beforeDir="false" afterPath="$PROJECT_DIR$/00_agrupacion_datos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Proyecto_Pycharm_github" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -187,6 +186,10 @@
       <workItem from="1608400065210" duration="607000" />
       <workItem from="1608400682383" duration="493000" />
       <workItem from="1608401254075" duration="984000" />
+      <workItem from="1608402245071" duration="307000" />
+      <workItem from="1608402557295" duration="59000" />
+      <workItem from="1608402697530" duration="78000" />
+      <workItem from="1608402887399" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="Clonar archivo pycharm a github">
       <created>1608357151071</created>
@@ -202,7 +205,35 @@
       <option name="project" value="LOCAL" />
       <updated>1608400997830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Clonar archivo pycharm a github">
+      <created>1608402328913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608402328913</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Clonar archivo pycharm a github">
+      <created>1608402351385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608402351385</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Clonar archivo pycharm a github">
+      <created>1608402522996</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608402522996</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Clonar archivo pycharm a github">
+      <created>1608402531252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608402531252</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,34 +256,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="Clonar archivo pycharm a github" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1608400128500">
+    <state x="421" y="208" key="#Notifications" timestamp="1608402390911">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1608400128500" />
-    <state width="1306" height="189" key="GridCell.Tab.0.bottom" timestamp="1608402238795">
+    <state x="421" y="208" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1608402390910" />
+    <state x="275" y="25" key="#Plugins" timestamp="1608402751368">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1608402238795" />
-    <state width="1306" height="189" key="GridCell.Tab.0.center" timestamp="1608402238794">
+    <state x="275" y="25" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1608402751368" />
+    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608402739336">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1608402238794" />
-    <state width="1306" height="189" key="GridCell.Tab.0.left" timestamp="1608402238794">
+    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1608402739336" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1608402405684">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1608402238794" />
-    <state width="1306" height="189" key="GridCell.Tab.0.right" timestamp="1608402238794">
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1608402405684" />
+    <state width="1306" height="189" key="GridCell.Tab.0.bottom" timestamp="1608402551556">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1608402238794" />
+    <state width="1306" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1608402551556" />
+    <state width="1306" height="189" key="GridCell.Tab.0.center" timestamp="1608402551556">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1608402551556" />
+    <state width="1306" height="189" key="GridCell.Tab.0.left" timestamp="1608402551555">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1608402551555" />
+    <state width="1306" height="189" key="GridCell.Tab.0.right" timestamp="1608402551556">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1306" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1608402551556" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1608353480446">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1608353480446" />
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1608401002957">
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1608402532742">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1608401002957" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1608402532742" />
     <state x="100" y="100" width="1166" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1608402238810">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -263,8 +306,8 @@
     <state x="0" y="0" width="585" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1608401736374" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Pycharm_github$00_agrupacion_datos__1_.coverage" NAME="00_agrupacion_datos (1) Coverage Results" MODIFIED="1608402101544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pycharm_github$01_agrupacion_datos__1_.coverage" NAME="01_agrupacion_datos (1) Coverage Results" MODIFIED="1608402172107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pycharm_github$00_agrupacion_datos__1_.coverage" NAME="00_agrupacion_datos (1) Coverage Results" MODIFIED="1608402504390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharm_github$01_agrupacion_datos.coverage" NAME="01_agrupacion_datos Coverage Results" MODIFIED="1608401381427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Proyecto_Pycharm_github" />
+    <SUITE FILE_PATH="coverage/Pycharm_github$01_agrupacion_datos__1_.coverage" NAME="01_agrupacion_datos (1) Coverage Results" MODIFIED="1608402262505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
