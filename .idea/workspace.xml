@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d8e3c-e9c9-4c79-9845-2203a3cab735" name="Default Changelist" comment="Clonar archivo pycharm a github">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_agrupacion_datos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Datos_agrupados_y_vs_m.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_agrupacion_datos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datos_agrupados_y_vs_m.xlsx" beforeDir="false" />
-    </list>
+    <list default="true" id="714d8e3c-e9c9-4c79-9845-2203a3cab735" name="Default Changelist" comment="Clonar archivo pycharm a github" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,7 +215,7 @@
       <workItem from="1608403224836" duration="235000" />
       <workItem from="1608477366524" duration="115000" />
       <workItem from="1608477556036" duration="369000" />
-      <workItem from="1608477929998" duration="2574000" />
+      <workItem from="1608477929998" duration="2877000" />
     </task>
     <task id="LOCAL-00001" summary="Clonar archivo pycharm a github">
       <created>1608357151071</created>
@@ -272,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608403093383</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Clonar archivo pycharm a github">
+      <created>1608480900631</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608480900631</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +299,6 @@
     <SUITE FILE_PATH="coverage/Pycharm_github$00_agrupacion_datos__1_.coverage" NAME="00_agrupacion_datos (1) Coverage Results" MODIFIED="1608403369581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharm_github$01_agrupacion_datos.coverage" NAME="01_agrupacion_datos Coverage Results" MODIFIED="1608401381427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Proyecto_Pycharm_github" />
     <SUITE FILE_PATH="coverage/Pycharm_github$01_agrupacion_datos__1_.coverage" NAME="01_agrupacion_datos (1) Coverage Results" MODIFIED="1608402262505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos.coverage" NAME="Agrupacion_datos Coverage Results" MODIFIED="1608480563752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos.coverage" NAME="Agrupacion_datos Coverage Results" MODIFIED="1608480813754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
