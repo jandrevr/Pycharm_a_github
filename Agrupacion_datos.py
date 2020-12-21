@@ -3,16 +3,14 @@ import pandas as pd
 name = 'Datos_mensuales.xlsx'
 df = pd.read_excel(name, 'QL_1', index_col=0)
 estaciones = df.columns
-print(estaciones)
 
 est = 23097030
 
 serie = df[est]
-print(serie)
 
 data = pd.DataFrame(serie)
-print(data)
 
+print(type(df.index))
 data['year'] = df.index.year
 data['month'] = df.index.month
 
