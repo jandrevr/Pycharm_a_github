@@ -19,13 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714d8e3c-e9c9-4c79-9845-2203a3cab735" name="Default Changelist" comment="Clonar archivo pycharm a github&#10;Datos agrupados de precipitación">
-      <change afterPath="$PROJECT_DIR$/Agrupacion_datos_varias_estaciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datos_agrupados_y_vs_m.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agrupacion_datos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Agrupacion_datos_una_estacion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datos_agrupados.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Datos_agrupados.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="714d8e3c-e9c9-4c79-9845-2203a3cab735" name="Default Changelist" comment="" />
+    <disabled>
+      <disabled_changelists>
+        <list default="true" id="714d8e3c-e9c9-4c79-9845-2203a3cab735" name="Default Changelist" comment="Clonar archivo pycharm a github&#10;Datos agrupados de precipitación" />
+      </disabled_changelists>
+      <disabled_trackers />
+    </disabled>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +223,7 @@
       <workItem from="1608477929998" duration="7041000" />
       <workItem from="1608514134038" duration="8277000" />
       <workItem from="1608775073481" duration="1327000" />
-      <workItem from="1608776406974" duration="76000" />
+      <workItem from="1608776406974" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="Clonar archivo pycharm a github">
       <created>1608357151071</created>
@@ -309,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608776375484</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Clonación archivos Pycharm - Github">
+      <created>1608776496432</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608776496432</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,7 +337,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clonar archivo pycharm a github" />
     <MESSAGE value="Clonar archivo pycharm a github&#10;Datos agrupados de precipitación" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clonar archivo pycharm a github&#10;Datos agrupados de precipitación" />
+    <MESSAGE value="Clonación archivos Pycharm - Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clonación archivos Pycharm - Github" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pycharm_github$00_agrupacion_datos__1_.coverage" NAME="00_agrupacion_datos (1) Coverage Results" MODIFIED="1608403369581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
