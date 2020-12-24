@@ -2,6 +2,7 @@ import pandas as pd
 
 #https://www.senamhi.gob.pe/?&p=descarga-datos-hidrometeorologicos
 name = 'Datos_senamhi_ayacucho_pauza.xlsx'
+#https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html
 #df = pd.read_excel(name, 'Hoja1', index_col=0)
 df = pd.read_excel(name)  # La primera columna no es el indice
 print(df)
