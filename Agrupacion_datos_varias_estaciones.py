@@ -5,7 +5,7 @@ df = pd.read_excel(name, 'QL_1', index_col=0)
 
 estaciones = df.columns
 
-xls = pd.ExcelWriter('Datos_agrupados_y_vs_m.xlsx')
+xls = pd.ExcelWriter('Datos_agrupados_varias_estaciones.xlsx')
 
 for sta in estaciones:
     serie = df[sta]
