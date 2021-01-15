@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714d8e3c-e9c9-4c79-9845-2203a3cab735" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Pycharm_github.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pycharm_github.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datos_agrupados_pauza_acum.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Datos_agrupados_pauza_acum.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datos_agrupados_pauza_acum_NaN.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Datos_agrupados_pauza_acum_NaN.xlsx" afterDir="false" />
     </list>
     <disabled>
       <disabled_changelists>
@@ -73,9 +77,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Agrupacion_datos_ana">
+  <component name="RunManager" selected="Python.Agrupacion_datos_senamhi">
     <configuration name="Agrupacion_datos_ana" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pycharm_github" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,9 +192,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Agrupacion_datos_ana" />
         <item itemvalue="Python.Agrupacion_datos_senamhi" />
         <item itemvalue="Python.Agrupacion_datos_senamhi_NaN" />
+        <item itemvalue="Python.Agrupacion_datos_ana" />
         <item itemvalue="Python.Agrupacion_datos_varias_estaciones (1)" />
         <item itemvalue="Python.Agrupacion_datos_una_estacion (1)" />
       </list>
@@ -228,6 +232,13 @@
       <workItem from="1608776406974" duration="1116000" />
       <workItem from="1608816942857" duration="12954000" />
       <workItem from="1610036861240" duration="962000" />
+      <workItem from="1610645927668" duration="708000" />
+      <workItem from="1610646957536" duration="56000" />
+      <workItem from="1610647123748" duration="4000" />
+      <workItem from="1610647136269" duration="503000" />
+      <workItem from="1610657276509" duration="174000" />
+      <workItem from="1610657625570" duration="76000" />
+      <workItem from="1610678712666" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="Clonar archivo pycharm a github">
       <created>1608357151071</created>
@@ -383,12 +394,12 @@
     <SUITE FILE_PATH="coverage/Pycharm_github$00_agrupacion_datos__1_.coverage" NAME="00_agrupacion_datos (1) Coverage Results" MODIFIED="1608403369581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharm_github$agrupacion_datos_varias_estaciones.coverage" NAME="agrupacion_datos_varias_estaciones Coverage Results" MODIFIED="1608775433367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos_ana.coverage" NAME="Agrupacion_datos_ana Coverage Results" MODIFIED="1608833886812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos_senamhi.coverage" NAME="Agrupacion_datos_senamhi Coverage Results" MODIFIED="1608828435775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos_senamhi.coverage" NAME="Agrupacion_datos_senamhi Coverage Results" MODIFIED="1610678758516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos_una_estacion__1_.coverage" NAME="Agrupacion_datos_una_estacion (1) Coverage Results" MODIFIED="1608777175104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharm_github$01_agrupacion_datos.coverage" NAME="01_agrupacion_datos Coverage Results" MODIFIED="1608401381427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Proyecto_Pycharm_github" />
     <SUITE FILE_PATH="coverage/Pycharm_github$01_agrupacion_datos__1_.coverage" NAME="01_agrupacion_datos (1) Coverage Results" MODIFIED="1608402262505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos.coverage" NAME="Agrupacion_datos Coverage Results" MODIFIED="1608485568463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos_varias_estaciones__1_.coverage" NAME="Agrupacion_datos_varias_estaciones (1) Coverage Results" MODIFIED="1608777186191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos_senamhi_NaN.coverage" NAME="Agrupacion_datos_senamhi_NaN Coverage Results" MODIFIED="1608823131764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pycharm_github$Agrupacion_datos_senamhi_NaN.coverage" NAME="Agrupacion_datos_senamhi_NaN Coverage Results" MODIFIED="1610678741191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
